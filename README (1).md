@@ -16,5 +16,3 @@ With the help of this project we aim to build some fake images that resembles re
 We are using PyTorch deeplearning framework for this project
 ## Dataset
 The dataset that we are going to use is CIFAR-10 dataset
-## Dataset
-The dataset that we are going to use is CIFAR-10 dataset
